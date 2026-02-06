@@ -1,0 +1,1 @@
+# Yandex.Samokat_autotest_ans_sql
